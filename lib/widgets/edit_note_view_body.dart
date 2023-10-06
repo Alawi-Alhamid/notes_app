@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:notes_app/views/widgets/custom_app_bar.dart';
-import 'package:notes_app/views/widgets/custom_text_filed.dart';
+
+import 'custom_app_bar.dart';
+import 'custom_text_filed.dart';
 class EditNoteViewBody extends StatelessWidget {
   const EditNoteViewBody({Key? key}) : super(key: key);
 
